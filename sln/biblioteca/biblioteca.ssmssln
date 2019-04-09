@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "biblioteca", "biblioteca\biblioteca.ssmssqlproj", "{8A10743A-07E7-4680-8778-591AAF398156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Predeterminado|Default = Predeterminado|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A10743A-07E7-4680-8778-591AAF398156}.Predeterminado|Default.ActiveCfg = Predeterminado
+		{00000000-0000-0000-0000-000000000000}.Predeterminado|Default.ActiveCfg = Predeterminado
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
